@@ -1,0 +1,38 @@
+{
+  "name": "Mudway",
+  "version": "1.0.0",
+  "description": "Mudway",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "jquery-placeholder": "~2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaMilow/evnts.git"
+  },
+  "author": "Rafael Santos de Sá",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaMilow/evnts/issues"
+  },
+  "homepage": "https://github.com/RafaMilow/evnts#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-changed": "^1.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-filesize": "0.0.6",
+    "gulp-gettext": "^0.1.0",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.1.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uncss": "^1.0.2",
+    "gulp-util": "^3.0.6"
+  }
+}

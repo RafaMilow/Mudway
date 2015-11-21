@@ -1,0 +1,13 @@
+{
+  "name": "Mudway",
+  "description": "Mudway",
+  "main": "index.html",
+  "authors": [
+    "Rafael Santos de Sá"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "jquery-2.1.4.min": "http://code.jquery.com/jquery-2.1.4.min.js",
+    "foundation-sites": "~6.0.1"
+  }
+}

@@ -1,0 +1,30 @@
+.full {
+    margin: 0 0 1rem 0;
+    padding: 1rem;
+    position: relative;
+}
+
+.banner {
+	min-height: 540px;
+	background-image: url(/img/mudfull.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.banner h1 {
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.banner h2 {
+	text-transform: uppercase;
+	color: #fbaa19;	
+}
+
+.categorias {
+    background-color: #fbaa19;
+}
+
+.rodape {
+    background-color: #2b1311;
+}

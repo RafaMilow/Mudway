@@ -53,12 +53,65 @@
 	<div class="row column text-center">
 		<h1>CATEGORIAS #fbaa19</h1>
 	</div>
+
+	<div class="row small-up-1 large-up-3">
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+	</div>
+
 </div>
 
 <div class="full large">
+	
 	<div class="row column text-center">
 		<h1>NOTICIAS</h1>
 	</div>
+
+	<div class="row small-up-1 large-up-3">
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+		<div class="column">
+			<img class="thumbnail" src="http://placehold.it/300x400">
+			<h5>Nulla At Nulla Justo, Eget</h5>
+			<p>$400</p>
+			<a href="#" class="button expanded">Buy</a>
+		</div>
+
+	</div>
+
 </div>
 
 <div class="full large rodape">

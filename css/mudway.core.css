@@ -4,28 +4,134 @@
     position: relative;
 }
 
+.red { background-color: red; }
+.blue { background-color: blue; }
+.yellow { background-color: yellow; }
+
+.mudway-logo span {
+	font-size: 3.4rem;
+}
+
+.mtop10 {
+	margin-top: 10px !important;
+	text-transform: uppercase;
+}
+
+.destaque a {
+    color: #fbaa19 !important;
+}
+
 .banner {
 	min-height: 540px;
-	background-image: url(/img/mudfull.jpg);
+	background-image: url(../img/mudfull.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
+	text-transform: uppercase;
+}
+
+.banner .text-ralar {
+	margin-top: 170px;
+	margin-left: 240px;
 }
 
 .banner h1 {
-	text-transform: uppercase;
 	color: #fff;
+    font-size: 2.4rem;
+    line-height: 1.1;
+    font-weight: 700 !important;
+    margin-bottom: 5px !important;
 }
 
 .banner h2 {
-	text-transform: uppercase;
 	color: #fbaa19;	
+	font-size: 1.4rem;
+    line-height: 1.1;
+    font-weight: 700 !important;    
 }
 
 .categorias {
     background-color: #fbaa19;
+    min-height: 420px;
 }
 
+.categorias h1 {
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 2.4rem;
+	font-weight: bolder;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.categorias p {
+	color: #fff;
+	font-size: 1rem;
+}
+
+.icon-icone-categoria-profissa, .icon-icone-categoria-fun, .icon-icone-categoria-kids {
+	font-size: 7rem;
+}
+
+.categorias h4 {
+	color: #fff;
+	font-size: 1.2rem;
+	font-weight: bolder;
+}
+
+
 .rodape {
-    background-color: #2b1311;
+	background: #2b1311 url('../img/mudway-footer.png') no-repeat 80px 0;
     margin-bottom: 0px !important;
+    min-height: 220px;
+    padding-bottom: 0px !important;
+}
+
+.patrocinadores {
+	min-height: 405px;
+}
+
+.noticias {
+	min-height: 700px;
+}
+
+.redes-sociais {
+	font-size: 2.4rem;
+}
+
+.redes-sociais a {
+	color: #fff !important;
+}
+
+.menu-bottom a {
+	color: #fff !important;
+}
+
+.menu-bottom p {
+	margin-bottom: 0 !important;
+}
+
+.sub-destaque {
+	color: #fbaa19 !important;
+	text-transform: uppercase;
+	font-weight: bolder !important;
+}
+	
+/* INFO */
+.info-header {
+	min-height: 351px;
+	background: url('../img/informacoes.jpg') no-repeat;
+}
+
+
+.info-footer {
+	min-height: 199px;
+	background: url('../img/informacoes-footer.jpg') no-repeat;
+	margin-bottom: 0 !important;
+}
+
+
+/* PROVA */
+.prova-header {
+	min-height: 349px;
+	background: url('../img/prova.jpg') no-repeat;
 }

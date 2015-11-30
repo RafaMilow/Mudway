@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2564px" height="549px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2564 549"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#373435}
+    .mud-logo {fill:#2b1311}
+    .fil1 {fill:#373435;fill-rule:nonzero}
+    .mud1 {fill:#2b1311;fill-rule:nonzero}
+    .mud2 {fill:#fbaa1c;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_200513856">
+   <path class="mud-logo" d="M275 0c152,0 275,123 275,275 0,152 -123,275 -275,275 -152,0 -275,-123 -275,-275 0,-152 123,-275 275,-275zm69 122l-24 -41 -41 30 24 41 41 -30zm-48 36l-24 -41 -41 30 24 41 41 -30zm-6 108l-66 -114 -41 30 66 114 41 -30zm-48 36l-67 -113 -41 30 67 113 41 -30zm113 164l-16 -105 0 -1 0 -1 75 -118 -66 -112 -88 66 37 64 36 -27 2 -1 1 2 3 6 1 2 -2 1 -134 98 14 24 0 1 0 1 -15 102 150 -1zm-81 -424c128,0 232,104 232,232 0,128 -104,232 -232,232 -128,0 -232,-104 -232,-232 0,-128 104,-232 232,-232z"/>
+   <g>
+    <path class="mud1" d="M1083 90l-93 0 0 241c-1,170 288,170 289,0l0 -241 -93 0 0 241c-1,58 -104,58 -104,0l0 -241z"/>
+    <polygon class="mud1" points="627,452 689,452 719,452 719,452 719,284 764,399 827,399 871,283 871,452 871,452 902,452 963,452 963,90 872,90 795,267 719,90 627,90 "/>
+    <path class="mud1" d="M1399 176l0 191 5 0 0 0 41 0c31,0 46,-16 46,-39l0 -113c0,-24 -15,-38 -46,-38l-41 0 0 0 -5 0zm-93 -85l135 0c73,0 141,37 141,121l0 122c0,83 -68,120 -141,119l-135 0c0,-121 0,-241 0,-362z"/>
+
+    <polygon class="mud2" points="1897,308 1849,137 1782,137 1733,300 1674,90 1583,90 1692,452 1774,452 1814,304 1859,452 1940,452 2049,90 1959,90 "/>
+    <polygon class="mud2" points="1991,452 2016,452 2077,452 2138,253 2140,253 2201,452 2287,452 2174,90 2101,90 1999,428 "/>
+    <polygon class="mud2" points="2437,452 2437,310 2564,90 2457,90 2391,223 2326,90 2219,90 2346,310 2346,452 "/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -7,7 +7,7 @@ $objSmarty->template_dir = 'templates/';
 $objSmarty->compile_dir  = 'templates_c/';
 
 // Busanco o index
-$_INDEX = $objSmarty->fetch('index.tpl');
+$_INDEX = $objSmarty->fetch('info.tpl');
 
 // Montando o HTML
 $objSmarty->assign('INDEX', $_INDEX);

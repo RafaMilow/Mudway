@@ -1,49 +1,13 @@
-<!doctype html>
-<html>
-<head>
-<title>Template</title>
-
-	<!-- Meta Tags -->
-    <meta name="viewport" content="width=device-width" />
-
-	<!-- CSS -->
-    <link rel="stylesheet" href="css/mudway.css">
-    <link rel="stylesheet" href="css/mudway.core.css">
-
-
-</head>
-<body>
-
-<div class="top-bar">
-  <div class="top-bar-left">
-    <ul class="dropdown menu" data-dropdown-menu>
-      <li class="menu-text">Site Title</li>
-      <li><a href="#">HOME</a></li>
-      <li><a href="#">INFORMAÇÕES</a></li>
-      <li><a href="#">A PROVA</a></li>
-      <li><a href="#">CONTATO</a></li>
-      <li><a href="#">INSCRICOES</a></li>
-    </ul>
-  </div>
-  <div class="top-bar-right">
-    <ul class="menu">
-      <li><input type="search" placeholder="Search"></li>
-      <li><button type="button" class="button">Search</button></li>
-    </ul>
-  </div>
-</div>
-
-
 <div class="full large banner">
 	<div class="row">
-		<div class="small-5 columns end">
-			<h1>Muito melhor que ralar na firma!</h1>
+		<div class="small-5 columns end text-ralar">
+			<h1>Muito melhor<br />que ralar na<br />firma!</h1>
 			<h2>Inscreva-se Já!</h2>
 		</div>
 	</div>
 </div>
 
-<div class="full large">
+<div class="full large patrocinadores">
 	<div class="row column text-center">
 		<h1>PATROCINADORES</h1>
 	</div>
@@ -51,37 +15,36 @@
 
 <div class="full large categorias">
 	<div class="row column text-center">
-		<h1>CATEGORIAS #fbaa19</h1>
+		<h1>Categorias</h1>
 	</div>
 
-	<div class="row small-up-1 large-up-3">
+	<div class="row small-up-1 large-up-3 text-center">
 
 		<div class="column">
-			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<p><span class="icon-icone-categoria-profissa"></span></p>
+			<h4>Profissa</h4>
+			<p>Pra quem é fera, tem sebo nas canelas, músculos de  aço e técnicas do ninja Jiraya para vencer obstáculos. Tem disputa e premiação por pódio. 5 km</p>
 		</div>
 
 		<div class="column">
-			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<p><span class="icon-icone-categoria-fun"></span></p>
+			<h4>Run for fun</h4>
+			<p>Dane-se a corrida e o tempo. Preocupe-se apenas com seu estilo. Aproveite o visual e divirta-se!
+			Não há disputa ou premiação por pódio. 5 km</p>
 		</div>
 
 		<div class="column">
-			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<p><span class="icon-icone-categoria-kids"></span></p>
+			<h4>Kids</h4>
+			<p>Aqui na Mudway a criançada também é radical e tem vez! Percurso bem legal com 05 obstáculos.
+			Não há disputa ou premiação por pódio. 700 m</p>
 		</div>
 
 	</div>
 
 </div>
 
-<div class="full large">
+<div class="full large noticias">
 	
 	<div class="row column text-center">
 		<h1>NOTICIAS</h1>
@@ -91,39 +54,24 @@
 
 		<div class="column">
 			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<h4>Elite</h4>
+			<p>Pra quem é fera, tem sebo nas canelas, músculos de  aço e técnicas do ninja Jiraya para vencer obstáculos. Tem disputa e premiação por pódio. 5 km</p>
 		</div>
 
 		<div class="column">
 			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<h4>Run for fun</h4>
+			<p>Dane-se a corrida e o tempo. Preocupe-se apenas com seu estilo. Aproveite o visual e divirta-se!
+			Não há disputa ou premiação por pódio. 5 km</p>
 		</div>
 
 		<div class="column">
 			<img class="thumbnail" src="http://placehold.it/300x400">
-			<h5>Nulla At Nulla Justo, Eget</h5>
-			<p>$400</p>
-			<a href="#" class="button expanded">Buy</a>
+			<h4>Kids</h4>
+			<p>Aqui na Mudway a criançada também é radical e tem vez! Percurso bem legal com 05 obstáculos.
+			Não há disputa ou premiação por pódio. 700 m</p>
 		</div>
 
 	</div>
 
 </div>
-
-<div class="full large rodape">
-	<div class="row column text-center">
-		<h1>FOOTER #2b1311</h1>
-	</div>
-</div>
-
-<script src="/bower_components/jquery/dist/jquery.js"></script>
-<script src="/bower_components/what-input/what-input.min.js"></script>
-<script src="js/foundation.min.js"></script>
-<script src="js/app.js"></script>
-
-</body>
-</html>

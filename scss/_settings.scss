@@ -46,9 +46,9 @@
 $global-width: rem-calc(1200);
 $global-font-size: 100%;
 $global-lineheight: 1.5;
-$primary-color: #2199e8;
+$primary-color: #2b1311;
 $secondary-color: #777;
-$success-color: #3adb76;
+$success-color: #fbaa1b;
 $warning-color: #ffae00;
 $alert-color: #ec5840;
 $light-gray: #e6e6e6;
@@ -58,6 +58,7 @@ $black: #0a0a0a;
 $white: #fefefe;
 $body-background: $white;
 $body-font-color: $black;
+//$body-font-family: "Ubuntu", sans-serif;
 $body-font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 $body-antialiased: true;
 $text-direction: ltr;
@@ -523,8 +524,8 @@ $tooltip-radius: $global-radius;
 // 34. Top Bar
 // -----------
 
-$topbar-padding: 0.5rem;
-$topbar-background: #eee;
-$topbar-link-color: #fff;
-$topbar-input-width: 200px;
+$topbar-padding: 0.7rem;
+$topbar-background: #fff;
+$topbar-link-color: #2b1311;
+$topbar-input-width: 130px;
 
